@@ -1,0 +1,7 @@
+C:\Users\alish\Desktop\Mphasis\TeacherStudent\TeacherStudent\TeacherStudent\bin\Debug\TeacherStudent.exe.config
+C:\Users\alish\Desktop\Mphasis\TeacherStudent\TeacherStudent\TeacherStudent\bin\Debug\TeacherStudent.exe
+C:\Users\alish\Desktop\Mphasis\TeacherStudent\TeacherStudent\TeacherStudent\bin\Debug\TeacherStudent.pdb
+C:\Users\alish\Desktop\Mphasis\TeacherStudent\TeacherStudent\TeacherStudent\obj\Debug\TeacherStudent.csproj.AssemblyReference.cache
+C:\Users\alish\Desktop\Mphasis\TeacherStudent\TeacherStudent\TeacherStudent\obj\Debug\TeacherStudent.csproj.CoreCompileInputs.cache
+C:\Users\alish\Desktop\Mphasis\TeacherStudent\TeacherStudent\TeacherStudent\obj\Debug\TeacherStudent.exe
+C:\Users\alish\Desktop\Mphasis\TeacherStudent\TeacherStudent\TeacherStudent\obj\Debug\TeacherStudent.pdb
